@@ -11,7 +11,7 @@
 Learning flutter and creating cool login pages
 
 ## Screenshots
-![Main Screen](./docs/screenshot.png)
+<img src="./docs/screenshot.png" width="30%" height="30%"/>
 
 ## Technologies
 * Flutter
